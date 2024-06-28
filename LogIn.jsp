@@ -101,7 +101,7 @@ body {
             <label for="password">Password:</label> 
             <input type="password" id="password" name="password" required>
             <div class="button-container">
-                <button class="submit" type="button" onclick="window.location.href='Home.jsp'">Login</button> 
+                <button class="submit" type="button" onclick="window.location.href='home.jsp'">Login</button> 
                 <button class="submit" type="button" onclick="window.location.href='Registration.jsp'">Register</button>
             </div>
         </form>
