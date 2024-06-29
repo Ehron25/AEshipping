@@ -51,7 +51,7 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <div class="navbar-nav ms-auto p-4 p-lg-0">
-                <a href="index.jsp" class="nav-item nav-link">Home</a>
+                <a href="home.jsp" class="nav-item nav-link">Home</a>
                 <a href="about.jsp" class="nav-item nav-link">About</a>
                 <a href="service.jsp" class="nav-item nav-link active">Services</a>
                 <div class="nav-item dropdown">
@@ -103,7 +103,7 @@
                             <img class="img-fluid" src="img/service-1.jpg" alt="">
                         </div>
                         <h4 class="mb-3">Air Freight</h4>
-                        <p>Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam lorem diam.</p>
+                        <p>Choose our air freight services for fast and secure deliveries.</p>
                         <a class="btn-slide mt-2" href=""><i class="fa fa-arrow-right"></i><span>Read More</span></a>
                     </div>
                 </div>
@@ -113,7 +113,7 @@
                             <img class="img-fluid" src="img/service-2.jpg" alt="">
                         </div>
                         <h4 class="mb-3">Ocean Freight</h4>
-                        <p>Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam lorem diam.</p>
+                        <p>Rely on our ocean freight solutions for cost-effective global shipping.</p>
                         <a class="btn-slide mt-2" href=""><i class="fa fa-arrow-right"></i><span>Read More</span></a>
                     </div>
                 </div>
@@ -123,7 +123,7 @@
                             <img class="img-fluid" src="img/service-3.jpg" alt="">
                         </div>
                         <h4 class="mb-3">Road Freight</h4>
-                        <p>Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam lorem diam.</p>
+                        <p>Our road freight services ensure timely and efficient transportation.</p>
                         <a class="btn-slide mt-2" href=""><i class="fa fa-arrow-right"></i><span>Read More</span></a>
                     </div>
                 </div>
@@ -133,7 +133,7 @@
                             <img class="img-fluid" src="img/service-4.jpg" alt="">
                         </div>
                         <h4 class="mb-3">Train Freight</h4>
-                        <p>Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam lorem diam.</p>
+                        <p>Experience reliable and eco-friendly shipping with our train freight options.</p>
                         <a class="btn-slide mt-2" href=""><i class="fa fa-arrow-right"></i><span>Read More</span></a>
                     </div>
                 </div>
@@ -143,7 +143,7 @@
                             <img class="img-fluid" src="img/service-5.jpg" alt="">
                         </div>
                         <h4 class="mb-3">Customs Clearance</h4>
-                        <p>Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam lorem diam.</p>
+                        <p>Simplify your imports and exports with our expert customs clearance services.</p>
                         <a class="btn-slide mt-2" href=""><i class="fa fa-arrow-right"></i><span>Read More</span></a>
                     </div>
                 </div>
@@ -153,7 +153,7 @@
                             <img class="img-fluid" src="img/service-6.jpg" alt="">
                         </div>
                         <h4 class="mb-3">Warehouse Solutions</h4>
-                        <p>Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam lorem diam.</p>
+                        <p>Optimize your storage and distribution with our comprehensive warehouse solutions.</p>
                         <a class="btn-slide mt-2" href=""><i class="fa fa-arrow-right"></i><span>Read More</span></a>
                     </div>
                 </div>
@@ -180,7 +180,7 @@
                             <p class="m-0">Profession</p>
                         </div>
                     </div>
-                    <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum et lorem et sit.</p>
+                    <p class="mb-0">"Amazing service! They delivered my package across continents faster than I expected."</p>
                 </div>
                 <div class="testimonial-item p-4 my-5">
                     <i class="fa fa-quote-right fa-3x text-light position-absolute top-0 end-0 mt-n3 me-4"></i>
@@ -191,7 +191,7 @@
                             <p class="m-0">Profession</p>
                         </div>
                     </div>
-                    <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum et lorem et sit.</p>
+                    <p class="mb-0">"I've been using their shipping services for years and have never been disappointed. Always on time!"</p>
                 </div>
                 <div class="testimonial-item p-4 my-5">
                     <i class="fa fa-quote-right fa-3x text-light position-absolute top-0 end-0 mt-n3 me-4"></i>
@@ -202,7 +202,7 @@
                             <p class="m-0">Profession</p>
                         </div>
                     </div>
-                    <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum et lorem et sit.</p>
+                    <p class="mb-0">"Their customer support is top-notch. They helped me navigate through customs effortlessly."</p>
                 </div>
                 <div class="testimonial-item p-4 my-5">
                     <i class="fa fa-quote-right fa-3x text-light position-absolute top-0 end-0 mt-n3 me-4"></i>
@@ -213,7 +213,7 @@
                             <p class="m-0">Profession</p>
                         </div>
                     </div>
-                    <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum et lorem et sit.</p>
+                    <p class="mb-0">"Reliable and efficient! I can always count on them to get my shipments where they need to go."</p>
                 </div>
             </div>
         </div>
@@ -255,7 +255,7 @@
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-light mb-4">Newsletter</h4>
-                    <p>Dolor amet sit justo amet elitr clita ipsum elitr est.</p>
+                    <p>Stay updated on the latest shipping news and exclusive offers subscribe to our newsletter today!</p>
                     <div class="position-relative mx-auto" style="max-width: 400px;">
                         <input class="form-control border-0 w-100 py-3 ps-4 pe-5" type="text" placeholder="Your email">
                         <button type="button" class="btn btn-primary py-2 position-absolute top-0 end-0 mt-2 me-2">SignUp</button>
@@ -267,7 +267,7 @@
             <div class="copyright">
                 <div class="row">
                     <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                        &copy; <a class="border-bottom" href="#">Your Site Name</a>, All Right Reserved.
+                        &copy; <a class="border-bottom" href="#">AE Shipping Co.</a>, All Right Reserved.
                     </div>
                     <div class="col-md-6 text-center text-md-end">
                         <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->

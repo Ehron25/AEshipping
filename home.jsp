@@ -51,7 +51,7 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <div class="navbar-nav ms-auto p-4 p-lg-0">
-                <a href="index.jsp" class="nav-item nav-link active">Home</a>
+                <a href="home.jsp" class="nav-item nav-link active">Home</a>
                 <a href="about.jsp" class="nav-item nav-link">About</a>
                 <a href="service.jsp" class="nav-item nav-link">Services</a>
                 <div class="nav-item dropdown">
@@ -84,7 +84,7 @@
                             <div class="col-10 col-lg-8">
                                 <h5 class="text-white text-uppercase mb-3 animated slideInDown">Transport & Logistics Solution</h5>
                                 <h1 class="display-3 text-white animated slideInDown mb-4">#1 Place For Your <span class="text-primary">Logistics</span> Solution</h1>
-                                <p class="fs-5 fw-medium text-white mb-4 pb-2">Vero elitr justo clita lorem. Ipsum dolor at sed stet sit diam no. Kasd rebum ipsum et diam justo clita et kasd rebum sea elitr.</p>
+                                <p class="fs-5 fw-medium text-white mb-4 pb-2">Experience fast and reliable shipping when you shop at AE Shippings Co. !</p>
                                 <a href="" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Read More</a>
                                 <a href="" class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">Free Quote</a>
                             </div>
@@ -100,7 +100,7 @@
                             <div class="col-10 col-lg-8">
                                 <h5 class="text-white text-uppercase mb-3 animated slideInDown">Transport & Logistics Solution</h5>
                                 <h1 class="display-3 text-white animated slideInDown mb-4">#1 Place For Your <span class="text-primary">Transport</span> Solution</h1>
-                                <p class="fs-5 fw-medium text-white mb-4 pb-2">Vero elitr justo clita lorem. Ipsum dolor at sed stet sit diam no. Kasd rebum ipsum et diam justo clita et kasd rebum sea elitr.</p>
+                                <p class="fs-5 fw-medium text-white mb-4 pb-2">Experience fast and reliable shipping when you shop at AE Shippings Co. !</p>
                                 <a href="" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Read More</a>
                                 <a href="" class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">Free Quote</a>
                             </div>
@@ -125,17 +125,17 @@
                 <div class="col-lg-6 about-text wow fadeInUp" data-wow-delay="0.3s">
                     <h6 class="text-secondary text-uppercase mb-3">About Us</h6>
                     <h1 class="mb-5">Quick Transport and Logistics Solutions</h1>
-                    <p class="mb-5">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
+                    <p class="mb-5">Choose Quick Transport and Logistics Solutions for speedy and dependable deliveries!</p>
                     <div class="row g-4 mb-5">
                         <div class="col-sm-6 wow fadeIn" data-wow-delay="0.5s">
                             <i class="fa fa-globe fa-3x text-primary mb-3"></i>
                             <h5>Global Coverage</h5>
-                            <p class="m-0">Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam lorem diam justo.</p>
+                            <p class="m-0">Benefit from worldwide coverage with Quick Transport and Logistics Solutions.</p>
                         </div>
                         <div class="col-sm-6 wow fadeIn" data-wow-delay="0.7s">
                             <i class="fa fa-shipping-fast fa-3x text-primary mb-3"></i>
                             <h5>On Time Delivery</h5>
-                            <p class="m-0">Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam lorem diam justo.</p>
+                            <p class="m-0">Count on us for on-time delivery every time.</p>
                         </div>
                     </div>
                     <a href="" class="btn btn-primary py-3 px-5">Explore More</a>
@@ -153,7 +153,7 @@
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
                     <h6 class="text-secondary text-uppercase mb-3">Some Facts</h6>
                     <h1 class="mb-5">#1 Place To Manage All Of Your Shipments</h1>
-                    <p class="mb-5">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
+                    <p class="mb-5">"Discover why we're the #1 place to manage all of your shipments, offering seamless, efficient, and reliable logistics solutions tailored to meet all your shipping needs."</p>
                     <div class="d-flex align-items-center">
                         <i class="fa fa-headphones fa-2x flex-shrink-0 bg-primary p-3 text-white"></i>
                         <div class="ps-4">
@@ -167,19 +167,19 @@
                         <div class="col-sm-6">
                             <div class="bg-primary p-4 mb-4 wow fadeIn" data-wow-delay="0.3s">
                                 <i class="fa fa-users fa-2x text-white mb-3"></i>
-                                <h2 class="text-white mb-2" data-toggle="counter-up">1234</h2>
+                                <h2 class="text-white mb-2" data-toggle="counter-up">10,587</h2>
                                 <p class="text-white mb-0">Happy Clients</p>
                             </div>
                             <div class="bg-secondary p-4 wow fadeIn" data-wow-delay="0.5s">
                                 <i class="fa fa-ship fa-2x text-white mb-3"></i>
-                                <h2 class="text-white mb-2" data-toggle="counter-up">1234</h2>
+                                <h2 class="text-white mb-2" data-toggle="counter-up">10,876</h2>
                                 <p class="text-white mb-0">Complete Shipments</p>
                             </div>
                         </div>
                         <div class="col-sm-6">
                             <div class="bg-success p-4 wow fadeIn" data-wow-delay="0.7s">
                                 <i class="fa fa-star fa-2x text-white mb-3"></i>
-                                <h2 class="text-white mb-2" data-toggle="counter-up">1234</h2>
+                                <h2 class="text-white mb-2" data-toggle="counter-up">9,476</h2>
                                 <p class="text-white mb-0">Customer Reviews</p>
                             </div>
                         </div>
@@ -205,7 +205,7 @@
                             <img class="img-fluid" src="img/service-1.jpg" alt="">
                         </div>
                         <h4 class="mb-3">Air Freight</h4>
-                        <p>Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam lorem diam.</p>
+                        <p>Choose our air freight services for fast and secure deliveries.</p>
                         <a class="btn-slide mt-2" href=""><i class="fa fa-arrow-right"></i><span>Read More</span></a>
                     </div>
                 </div>
@@ -215,7 +215,7 @@
                             <img class="img-fluid" src="img/service-2.jpg" alt="">
                         </div>
                         <h4 class="mb-3">Ocean Freight</h4>
-                        <p>Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam lorem diam.</p>
+                        <p>Rely on our ocean freight solutions for cost-effective global shipping.</p>
                         <a class="btn-slide mt-2" href=""><i class="fa fa-arrow-right"></i><span>Read More</span></a>
                     </div>
                 </div>
@@ -225,7 +225,7 @@
                             <img class="img-fluid" src="img/service-3.jpg" alt="">
                         </div>
                         <h4 class="mb-3">Road Freight</h4>
-                        <p>Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam lorem diam.</p>
+                        <p>Our road freight services ensure timely and efficient transportation.</p>
                         <a class="btn-slide mt-2" href=""><i class="fa fa-arrow-right"></i><span>Read More</span></a>
                     </div>
                 </div>
@@ -235,7 +235,7 @@
                             <img class="img-fluid" src="img/service-4.jpg" alt="">
                         </div>
                         <h4 class="mb-3">Train Freight</h4>
-                        <p>Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam lorem diam.</p>
+                        <p>Experience reliable and eco-friendly shipping with our train freight options.</p>
                         <a class="btn-slide mt-2" href=""><i class="fa fa-arrow-right"></i><span>Read More</span></a>
                     </div>
                 </div>
@@ -245,7 +245,7 @@
                             <img class="img-fluid" src="img/service-5.jpg" alt="">
                         </div>
                         <h4 class="mb-3">Customs Clearance</h4>
-                        <p>Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam lorem diam.</p>
+                        <p>Simplify your imports and exports with our expert customs clearance services.</p>
                         <a class="btn-slide mt-2" href=""><i class="fa fa-arrow-right"></i><span>Read More</span></a>
                     </div>
                 </div>
@@ -255,7 +255,7 @@
                             <img class="img-fluid" src="img/service-6.jpg" alt="">
                         </div>
                         <h4 class="mb-3">Warehouse Solutions</h4>
-                        <p>Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam lorem diam.</p>
+                        <p>Optimize your storage and distribution with our comprehensive warehouse solutions.</p>
                         <a class="btn-slide mt-2" href=""><i class="fa fa-arrow-right"></i><span>Read More</span></a>
                     </div>
                 </div>
@@ -276,21 +276,21 @@
                         <i class="fa fa-globe text-primary fa-3x flex-shrink-0"></i>
                         <div class="ms-4">
                             <h5>Worldwide Service</h5>
-                            <p class="mb-0">Diam dolor ipsum sit amet eos erat ipsum lorem sed stet lorem sit clita duo justo magna erat amet</p>
+                            <p class="mb-0">Since 1990, our trusted logistics company has been providing worldwide service, ensuring global reach for your shipments.</p>
                         </div>
                     </div>
                     <div class="d-flex mb-5 wow fadeIn" data-wow-delay="0.5s">
                         <i class="fa fa-shipping-fast text-primary fa-3x flex-shrink-0"></i>
                         <div class="ms-4">
                             <h5>On Time Delivery</h5>
-                            <p class="mb-0">Diam dolor ipsum sit amet eos erat ipsum lorem sed stet lorem sit clita duo justo magna erat amet</p>
+                            <p class="mb-0">With a commitment to on-time delivery, we ensure your goods arrive promptly every time.</p>
                         </div>
                     </div>
                     <div class="d-flex mb-0 wow fadeInUp" data-wow-delay="0.7s">
                         <i class="fa fa-headphones text-primary fa-3x flex-shrink-0"></i>
                         <div class="ms-4">
                             <h5>24/7 Telephone Support</h5>
-                            <p class="mb-0">Diam dolor ipsum sit amet eos erat ipsum lorem sed stet lorem sit clita duo justo magna erat amet</p>
+                            <p class="mb-0">Our 24/7 telephone support is always available to assist you with any shipping needs or inquiries.</p>
                         </div>
                     </div>
                 </div>
@@ -323,11 +323,11 @@
                             </h1>
                         </div>
                         <div class="p-4 pt-0">
-                            <p><i class="fa fa-check text-success me-3"></i>HTML5 & CSS3</p>
-                            <p><i class="fa fa-check text-success me-3"></i>Bootstrap v5</p>
-                            <p><i class="fa fa-check text-success me-3"></i>FontAwesome Icons</p>
-                            <p><i class="fa fa-check text-success me-3"></i>Responsive Layout</p>
-                            <p><i class="fa fa-check text-success me-3"></i>Cross-browser Support</p>
+                            <p><i class="fa fa-check text-success me-3"></i>Cost-effective solution for budget-conscious businesses.</p>
+                            <p><i class="fa fa-check text-success me-3"></i>Essential shipping features to meet basic logistical needs.</p>
+                            <p><i class="fa fa-check text-success me-3"></i>Reliable service with on-time delivery commitments.</p>
+                            <p><i class="fa fa-check text-success me-3"></i>Access to customer support during business hours.</p>
+                            <p><i class="fa fa-check text-success me-3"></i>Ideal for small-scale operations or occasional shipping needs.</p>
                             <a class="btn-slide mt-2" href=""><i class="fa fa-arrow-right"></i><span >Order Now</span></a>
                         </div>
                     </div>
@@ -342,11 +342,11 @@
                             </h1>
                         </div>
                         <div class="p-4 pt-0">
-                            <p><i class="fa fa-check text-success me-3"></i>HTML5 & CSS3</p>
-                            <p><i class="fa fa-check text-success me-3"></i>Bootstrap v5</p>
-                            <p><i class="fa fa-check text-success me-3"></i>FontAwesome Icons</p>
-                            <p><i class="fa fa-check text-success me-3"></i>Responsive Layout</p>
-                            <p><i class="fa fa-check text-success me-3"></i>Cross-browser Support</p>
+                            <p><i class="fa fa-check text-success me-3"></i>Enhanced shipping options including expedited delivery.</p>
+                            <p><i class="fa fa-check text-success me-3"></i>Increased coverage and service reliability.</p>
+                            <p><i class="fa fa-check text-success me-3"></i>Dedicated customer support with extended availability.</p>
+                            <p><i class="fa fa-check text-success me-3"></i>Tracking and monitoring capabilities for real-time updates.</p>
+                            <p><i class="fa fa-check text-success me-3"></i>Suitable for growing businesses needing consistent and dependable logistics solutions.</p>
                             <a class="btn-slide mt-2" href=""><i class="fa fa-arrow-right"></i><span >Order Now</span></a>
                         </div>
                     </div>
@@ -361,11 +361,11 @@
                             </h1>
                         </div>
                         <div class="p-4 pt-0">
-                            <p><i class="fa fa-check text-success me-3"></i>HTML5 & CSS3</p>
-                            <p><i class="fa fa-check text-success me-3"></i>Bootstrap v5</p>
-                            <p><i class="fa fa-check text-success me-3"></i>FontAwesome Icons</p>
-                            <p><i class="fa fa-check text-success me-3"></i>Responsive Layout</p>
-                            <p><i class="fa fa-check text-success me-3"></i>Cross-browser Support</p>
+                            <p><i class="fa fa-check text-success me-3"></i>Comprehensive shipping solutions for complex logistical challenges.</p>
+                            <p><i class="fa fa-check text-success me-3"></i>Priority handling and guaranteed on-time deliveries.</p>
+                            <p><i class="fa fa-check text-success me-3"></i>Customizable service options tailored to specific business requirements.</p>
+                            <p><i class="fa fa-check text-success me-3"></i>Dedicated account manager for personalized support and logistics strategy.</p>
+                            <p><i class="fa fa-check text-success me-3"></i>Advanced analytics and reporting tools for performance optimization.</p>
                             <a class="btn-slide mt-2" href=""><i class="fa fa-arrow-right"></i><span >Order Now</span></a>
                         </div>
                     </div>
@@ -382,8 +382,8 @@
             <div class="row g-5 align-items-center">
                 <div class="col-lg-5 wow fadeInUp" data-wow-delay="0.1s">
                     <h6 class="text-secondary text-uppercase mb-3">Get A Quote</h6>
-                    <h1 class="mb-5">Request A Free Qoute!</h1>
-                    <p class="mb-5">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo erat amet</p>
+                    <h1 class="mb-5">Request A Free Quote!</h1>
+                    <p class="mb-5">"Request a free quote today and discover how affordable and reliable our shipping solutions can be for your business!"</p>
                     <div class="d-flex align-items-center">
                         <i class="fa fa-headphones fa-2x flex-shrink-0 bg-primary p-3 text-white"></i>
                         <div class="ps-4">
@@ -528,7 +528,7 @@
                             <p class="m-0">Profession</p>
                         </div>
                     </div>
-                    <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum et lorem et sit.</p>
+                    <p class="mb-0">"Amazing service! They delivered my package across continents faster than I expected."</p>
                 </div>
                 <div class="testimonial-item p-4 my-5">
                     <i class="fa fa-quote-right fa-3x text-light position-absolute top-0 end-0 mt-n3 me-4"></i>
@@ -539,7 +539,7 @@
                             <p class="m-0">Profession</p>
                         </div>
                     </div>
-                    <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum et lorem et sit.</p>
+                    <p class="mb-0">"I've been using their shipping services for years and have never been disappointed. Always on time!"</p>
                 </div>
                 <div class="testimonial-item p-4 my-5">
                     <i class="fa fa-quote-right fa-3x text-light position-absolute top-0 end-0 mt-n3 me-4"></i>
@@ -550,7 +550,7 @@
                             <p class="m-0">Profession</p>
                         </div>
                     </div>
-                    <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum et lorem et sit.</p>
+                    <p class="mb-0">"Their customer support is top-notch. They helped me navigate through customs effortlessly."</p>
                 </div>
                 <div class="testimonial-item p-4 my-5">
                     <i class="fa fa-quote-right fa-3x text-light position-absolute top-0 end-0 mt-n3 me-4"></i>
@@ -561,7 +561,7 @@
                             <p class="m-0">Profession</p>
                         </div>
                     </div>
-                    <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum et lorem et sit.</p>
+                    <p class="mb-0">"Reliable and efficient! I can always count on them to get my shipments where they need to go."</p>
                 </div>
             </div>
         </div>
@@ -603,7 +603,7 @@
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-light mb-4">Newsletter</h4>
-                    <p>Dolor amet sit justo amet elitr clita ipsum elitr est.</p>
+                    <p>Stay updated on the latest shipping news and exclusive offers subscribe to our newsletter today!</p>
                     <div class="position-relative mx-auto" style="max-width: 400px;">
                         <input class="form-control border-0 w-100 py-3 ps-4 pe-5" type="text" placeholder="Your email">
                         <button type="button" class="btn btn-primary py-2 position-absolute top-0 end-0 mt-2 me-2">SignUp</button>
@@ -615,7 +615,7 @@
             <div class="copyright">
                 <div class="row">
                     <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                        &copy; <a class="border-bottom" href="#">Your Site Name</a>, All Right Reserved.
+                        &copy; <a class="border-bottom" href="#">AE Shipping Co.</a>, All Right Reserved.
                     </div>
                     <div class="col-md-6 text-center text-md-end">
                         <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->

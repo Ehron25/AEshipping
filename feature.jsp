@@ -51,7 +51,7 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <div class="navbar-nav ms-auto p-4 p-lg-0">
-                <a href="index.jsp" class="nav-item nav-link">Home</a>
+                <a href="home.jsp" class="nav-item nav-link">Home</a>
                 <a href="about.jsp" class="nav-item nav-link">About</a>
                 <a href="service.jsp" class="nav-item nav-link">Services</a>
                 <div class="nav-item dropdown">
@@ -96,7 +96,7 @@
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
                     <h6 class="text-secondary text-uppercase mb-3">Some Facts</h6>
                     <h1 class="mb-5">#1 Place To Manage All Of Your Shipments</h1>
-                    <p class="mb-5">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
+                    <p class="mb-5">"Discover why we're the #1 place to manage all of your shipments, offering seamless, efficient, and reliable logistics solutions tailored to meet all your shipping needs."</p>
                     <div class="d-flex align-items-center">
                         <i class="fa fa-headphones fa-2x flex-shrink-0 bg-primary p-3 text-white"></i>
                         <div class="ps-4">
@@ -110,19 +110,19 @@
                         <div class="col-sm-6">
                             <div class="bg-primary p-4 mb-4 wow fadeIn" data-wow-delay="0.3s">
                                 <i class="fa fa-users fa-2x text-white mb-3"></i>
-                                <h2 class="text-white mb-2" data-toggle="counter-up">1234</h2>
+                                <h2 class="text-white mb-2" data-toggle="counter-up">10,587</h2>
                                 <p class="text-white mb-0">Happy Clients</p>
                             </div>
                             <div class="bg-secondary p-4 wow fadeIn" data-wow-delay="0.5s">
                                 <i class="fa fa-ship fa-2x text-white mb-3"></i>
-                                <h2 class="text-white mb-2" data-toggle="counter-up">1234</h2>
+                                <h2 class="text-white mb-2" data-toggle="counter-up">10,876</h2>
                                 <p class="text-white mb-0">Complete Shipments</p>
                             </div>
                         </div>
                         <div class="col-sm-6">
                             <div class="bg-success p-4 wow fadeIn" data-wow-delay="0.7s">
                                 <i class="fa fa-star fa-2x text-white mb-3"></i>
-                                <h2 class="text-white mb-2" data-toggle="counter-up">1234</h2>
+                                <h2 class="text-white mb-2" data-toggle="counter-up">9,476</h2>
                                 <p class="text-white mb-0">Customer Reviews</p>
                             </div>
                         </div>
@@ -145,21 +145,21 @@
                         <i class="fa fa-globe text-primary fa-3x flex-shrink-0"></i>
                         <div class="ms-4">
                             <h5>Worldwide Service</h5>
-                            <p class="mb-0">Diam dolor ipsum sit amet eos erat ipsum lorem sed stet lorem sit clita duo justo magna erat amet</p>
+                            <p class="mb-0">Since 1990, our trusted logistics company has been providing worldwide service, ensuring global reach for your shipments.</p>
                         </div>
                     </div>
                     <div class="d-flex mb-5 wow fadeIn" data-wow-delay="0.5s">
                         <i class="fa fa-shipping-fast text-primary fa-3x flex-shrink-0"></i>
                         <div class="ms-4">
                             <h5>On Time Delivery</h5>
-                            <p class="mb-0">Diam dolor ipsum sit amet eos erat ipsum lorem sed stet lorem sit clita duo justo magna erat amet</p>
+                            <p class="mb-0">With a commitment to on-time delivery, we ensure your goods arrive promptly every time.</p>
                         </div>
                     </div>
                     <div class="d-flex mb-0 wow fadeInUp" data-wow-delay="0.7s">
                         <i class="fa fa-headphones text-primary fa-3x flex-shrink-0"></i>
                         <div class="ms-4">
                             <h5>24/7 Telephone Support</h5>
-                            <p class="mb-0">Diam dolor ipsum sit amet eos erat ipsum lorem sed stet lorem sit clita duo justo magna erat amet</p>
+                            <p class="mb-0">Our 24/7 telephone support is always available to assist you with any shipping needs or inquiries.</p>
                         </div>
                     </div>
                 </div>
@@ -208,7 +208,7 @@
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-light mb-4">Newsletter</h4>
-                    <p>Dolor amet sit justo amet elitr clita ipsum elitr est.</p>
+                    <p>Stay updated on the latest shipping news and exclusive offers subscribe to our newsletter today!</p>
                     <div class="position-relative mx-auto" style="max-width: 400px;">
                         <input class="form-control border-0 w-100 py-3 ps-4 pe-5" type="text" placeholder="Your email">
                         <button type="button" class="btn btn-primary py-2 position-absolute top-0 end-0 mt-2 me-2">SignUp</button>
@@ -220,7 +220,7 @@
             <div class="copyright">
                 <div class="row">
                     <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                        &copy; <a class="border-bottom" href="#">Your Site Name</a>, All Right Reserved.
+                        &copy; <a class="border-bottom" href="#">AE Shipping Co.</a>, All Right Reserved.
                     </div>
                     <div class="col-md-6 text-center text-md-end">
                         <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
