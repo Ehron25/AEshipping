@@ -134,7 +134,7 @@ body {
 		<center><h1>Registration Form</h1></center>
 			<div class="form-group form-row">
 				<div>
-					<label for="email">Email Address:</label>
+					<label for="email_address">Email Address:</label>
 					<input type="email" id="email" name="email" required>
 				</div>
 				<div>
@@ -146,15 +146,15 @@ body {
 
 			<div class="form-group form-row">
 				<div>
-					<label for="firstName">First Name:</label>
+					<label for="first_name">First Name:</label>
 					<input type="text" id="firstName" name="firstName" required>
 				</div>
 				<div>
-					<label for="middleName">Middle Name:</label>
+					<label for="middle_name">Middle Name:</label>
 					<input type="text" id="middleName" name="middleName">
 				</div>
 				<div>
-					<label for="lastName">Last Name:</label>
+					<label for="last_name">Last Name:</label>
 					<input type="text" id="lastName" name="lastName" required>
 				</div>
 			</div>
@@ -175,7 +175,7 @@ body {
 				<label for="address">Address:</label>
 				<input type="text" id="address" name="address" required>
 
-				<label for="phoneNumber">Phone Number:</label>
+				<label for="phone_number">Phone Number:</label>
 				<input type="text" id="phoneNumber" name="phoneNumber" required>
 
 				<label for="nationality">Nationality:</label>
@@ -184,7 +184,7 @@ body {
 
 			<div class="button-container">
 				<button class="submit" type="button" onclick="location.href='LogIn.jsp'">Back</button>
-				<button class="submit" type="button" onclick="location.href='Home.jsp'">Create</button>
+				<button class="submit" type="button" onclick="location.href='home.jsp'">Create</button>
 			</div>
 		</form>
 	</div>
